@@ -1,1 +1,1 @@
-# Exercício feito e postado no seu Notion e Github Miguel!
+Este exercício é para criar o módulo com os pacotes moeda e dado!
